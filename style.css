@@ -1,0 +1,36 @@
+/* Navbar */
+
+.nav {
+  background: rgb(216, 213, 22);
+  
+}
+
+.nav-item {
+  padding: 5px;
+}
+
+.nav-item:hover,
+.active {
+  background: #68d40f;
+  
+}
+
+.nav-link,
+.nav-link:hover {
+  color: #FFFFFF;
+  font: bold 14px sans-serif;
+}
+
+/* Section */
+
+.hero-block {
+ 
+  background-image: url("img/fon.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  color: rgb(216, 213, 22);
+  
+}
